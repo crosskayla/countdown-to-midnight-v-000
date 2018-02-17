@@ -9,3 +9,5 @@ def countdown(number)
 end
 
 countdown(3)
+
+countdown(12)
